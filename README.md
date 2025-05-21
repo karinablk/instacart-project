@@ -1,6 +1,3 @@
-# instacart-project
-Instacart Reorder Prediction - MAchine Learning Classification Project
-
 # Instacart Reorder Prediction – Machine Learning Classification Project
 
 This project focuses on predicting whether a customer will reorder a product in their next purchase, based on historical transaction data from the Instacart Market Basket Analysis dataset. The problem is framed as a multi-class classification task (not reordered, reordered, newly ordered).
@@ -60,4 +57,4 @@ XGBoost outperformed all other models in terms of speed and predictive performan
 - Explore separate binary classifier for class 2
 - Further hyperparameter tuning and feature selection
 
-For more information, visit my [GitHub profile](https://github.com/karinablk) or [LinkedIn](https://www.linkedin.com/in/karina-oborska-balkowiec/).
+For more details, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/karina-oborska-balkowiec/)
