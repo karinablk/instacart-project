@@ -8,7 +8,9 @@ The goal was to build a model that forecasts product reordering behavior to help
 
 ## Dataset Overview
 
-- Source: [Instacart Market Basket Analysis (Kaggle)](https://www.kaggle.com/competitions/instacart-market-basket-analysis)
+- Source: This project is based on the Instacart Market Basket Analysis dataset, which was originally released in a Kaggle competition by Instacart in 2017.
+While the original competition page is no longer available, the dataset is still accessible through the Kaggle community:
+👉 [Instacart Market Basket Analysis – Kaggle dataset by psparks](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
 - Size: ~20.5 million rows
 - Structure: multiple tables (orders, products, aisles, departments, prior orders, train orders)
 
